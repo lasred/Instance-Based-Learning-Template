@@ -5,12 +5,13 @@ With diagrams(Review with Mark)
 To add - Diagrams similar to Chee
 
 Components
-  Blob extraction
-    Blob
-      Information in blobs
-         Position relative to other blobs
+
+Blob extraction\
+  Blob\
+    Information in blobs\
+    Position relative to other blobs\
          
-  Comparing new observations to memory 
+Comparing new observations to memory 
   
 How to avoid getting overwhelmed 
 
