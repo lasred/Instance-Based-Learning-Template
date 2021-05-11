@@ -1,6 +1,7 @@
 # Instance-Based-Learning-Template
 With diagrams(Review with Mark)
 
+To recognize and discover patterns/concepts 
 
 To add - Diagrams similar to Chee
 
